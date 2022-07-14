@@ -9,9 +9,9 @@ This project was developed with the knowledge acquired during the Eduzz FullStac
  <h2>:movie_camera: Videos</h2>
  </summary>
  <h3>:computer: Desktop</h3>
-![grocery_desktop](https://user-images.githubusercontent.com/45208073/179068538-c3b9a43f-4353-4a1d-850b-2a68dc8dfed2.gif)
+<img width="100%" src="https://user-images.githubusercontent.com/45208073/179073997-19cabf2a-872e-4c50-9c1b-aa196b6010eb.gif" />
  <h3>:iphone: Tablet</h3>
-![grocery_tablet](https://user-images.githubusercontent.com/45208073/179068556-8bddd694-3d62-4836-90a8-9b06e6546fac.gif)
+<img width="100%" src="https://user-images.githubusercontent.com/45208073/179074168-27638430-b2a3-4b86-87a9-b1ce6cff7864.gif" />
 </details>
 
 ## :clipboard: Features
