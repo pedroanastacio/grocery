@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: grocery-web
+    build: .
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/home/node/app
+      - /home/node/app/node_modules

@@ -5,7 +5,7 @@ import * as S from './style';
 const Footer: React.FC = () => {
 	return (
 		<S.Wrapper>
-			<Typography className='message'>© Pedro Anastácio - {new Date().getFullYear()}</Typography>
+			<Typography className='message'>© GROCERY - {new Date().getFullYear()}</Typography>
 		</S.Wrapper>
 	);
 };
