@@ -1,4 +1,5 @@
-# Grocery
+<h1 align=center>Grocery</h1>
+<p align=center>(under development)</p>
 
 The Grocery is an E-commerce grocery project.
 
